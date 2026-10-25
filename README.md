@@ -42,7 +42,7 @@ Prepared business insights, a final presentation, and hypothesis testing.
 - Task 4: [https://github.com/kotamarthimadhavi/Task4-Data-Storytelling-Copy.git]
 
 ## Final Presentation
-[Add presentation file or link]
+[https://github.com/kotamarthimadhavi/Madhavi-DataAnalyst-Internship-Portfolio/blob/main/Task4_Final_Presentation.pptx]
 
 ## Conclusion
 This internship helped me develop practical data analytics skills and understand how data can support business decisions.
