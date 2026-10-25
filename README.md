@@ -36,10 +36,10 @@ Prepared business insights, a final presentation, and hypothesis testing.
 - Communicating data-driven insights
 
 ## Project Links
-- Task 1: [Add Task 1 repository link]
-- Task 2: [Add Task 2 repository link]
-- Task 3: [Add Task 3 repository link]
-- Task 4: [Add Task 4 repository link]
+- Task 1: [https://github.com/kotamarthimadhavi/sales-data-cleaning-project.git]
+- Task 2: [https://github.com/kotamarthimadhavi/ApexPlanet-DataAnalytics-Task2.git]
+- Task 3: [https://github.com/kotamarthimadhavi/ApexPlanet-Task3-Sales-Analysis.git]
+- Task 4: [https://github.com/kotamarthimadhavi/Task4-Data-Storytelling-Copy.git]
 
 ## Final Presentation
 [Add presentation file or link]
